@@ -49,6 +49,7 @@ function init() {
         BubbleChart(first_sample);
 
     });
+    
 };
 
 // Call the initialize function
@@ -201,7 +202,7 @@ function BubbleChart(sample) {
         };
 
         // Plot the bubble chart
-        
+
         Plotly.newPlot("bubble", [trace_bubble_chart], layout)
 
     });
