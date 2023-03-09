@@ -5,6 +5,7 @@ In this repo:
 * The "static/js" folder contains javascript file used for creating the dashboard.
 * The "index.html" file contains the html script.
 * The "samples.json" contains the json data used for the dashboard.
+* The link to app deployed to GitHub Pages: https://anjana-sanjeev.github.io/belly-button-challenge/
 
 # Summary
 
@@ -17,5 +18,6 @@ The following points were achieved using the json file:
 * Display each key-value pair from the metadata JSON object.
 * Update all the plots when a new sample is selected. 
 * A dashboard was created with different plots in the above points.
+* Deploy app to a GitHub Pages.
 
 
